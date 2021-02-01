@@ -2,7 +2,7 @@
 
 ## Aperçu de la maquette
 
-![Aperçu de la conception pour - Le formulaire d'inscription](/design/desktop-1280px.jpg)
+![Aperçu de la conception pour - Le formulaire d'inscription](/design/Desktop-1280px.jpg)
 
 ## Bienvenue! 👋
 
